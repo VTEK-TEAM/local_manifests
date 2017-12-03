@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remove-project name="LineageOS/android_packages_apps_updater" />
+  <remove-project name="LineageOS/android_packages_apps_Updater" />
   <project name="VTEK-TEAM/android_kernel_asus_T00F" path="kernel/asus/T00F" remote="github" revision="cm-14.1" />
   <project name="VTEK-TEAM/android_device_asus_T00F" path="device/asus/T00F" remote="github" revision="cm-14.1" />
   <project name="VTEK-TEAM/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
-  <project name="VTEK-TEAM/android_packages_apps_updater" path="packages/apps/Updater" remote="github" revision="cm-14.1" />
 </manifest>
 
