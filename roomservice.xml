@@ -4,6 +4,6 @@
   <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" revision="cm-14.1" />
   <project name="VTEK-TEAM/android_kernel_asus_T00F" path="kernel/asus/T00F" remote="github" revision="cm-14.1" />
   <project name="VTEK-TEAM/android_device_asus_T00F" path="device/asus/T00F" remote="github" revision="cm-14.1" />
-  <project name="VTEK-TEAM/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1" />
+  <project name="VTEK-TEAM/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="cm-14.1-zf5" />
 </manifest>
 
